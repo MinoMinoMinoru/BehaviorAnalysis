@@ -1,0 +1,4 @@
+#Wed Jul 03 16:23:19 JST 2019
+base.0=C\:\\Users\\minom\\AndroidStudioProjects\\BehaviorAnalysis\\mobile\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
