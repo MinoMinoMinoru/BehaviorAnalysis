@@ -15,7 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.atsuhiro.application08.Retrofit.RetrofitClient;
 
 public class StartActivity extends AppCompatActivity {
-    private String BASE_URL= "https://script.google.com/macros/s/AKfycbzqRy8L25yaV_YzaaeSqNBnHXljIM3OkTrIi-O1sCVRHZKeWO4/";
+    private String BASE_URL= "URL for post";
     private String NAME = "";
     private String TAG = "";
     private String INTERVAL="";
