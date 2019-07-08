@@ -45,7 +45,7 @@ public class MainActivity extends Activity implements GoogleApiClient.Connection
     private long termTime=0;
     private long sendTime=0;
 
-    private String BASE_URL= "https://script.google.com/macros/s/AKfycbzqRy8L25yaV_YzaaeSqNBnHXljIM3OkTrIi-O1sCVRHZKeWO4/";
+    private String BASE_URL= "URL for POST";
     private String NAME = "";
     private long INTERVAL =10;
 
